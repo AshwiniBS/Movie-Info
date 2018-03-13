@@ -1,0 +1,30 @@
+#movies img, #movie img{
+    
+    padding-top: 30px;
+    height: 300px;
+    width:300px;
+}
+
+
+  #movies .col-md-3 .well{
+    height: 300px;
+    width:300px;
+  }
+
+  #movies .col-md-3 img{
+    height:200px;
+    width:300px;
+  }
+
+.well .text-center
+{
+	width:400px;
+	height:400px;
+}
+
+.col-md-4 .responsive-img
+{
+	width:300px;
+	height:300px;
+}
+
