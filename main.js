@@ -14,7 +14,7 @@ function getMovies(srcTxt) {
     let result = "";
     $.each(movies, (i, movie) => {
       result += `
-        <div class="col-md-3">
+        <div class="jumbotron">
           <div class="well text-center">
             <img src="https://image.tmdb.org/t/p/w500${movies[i].poster_path}" class="thumbnail">
             <h5>${movies[i].title}</h5>
