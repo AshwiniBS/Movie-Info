@@ -64,7 +64,7 @@ function getMovie() {
             <h3>Plot</h3>
             ${movie.overview}
             <hr>
-            <a href="index.html" class="btn btn-default purple darken-3 waves-effect waves-light"><i class="fas fa-chevron-circle-left"></i> Go Back To Search</a>
+            <a href="index.html" class="btn btn-primary purple darken-3 waves-effect waves-light"><i class="fas fa-chevron-circle-left"></i> Go Back To Search</a>
             <a href="http://imdb.com/title/${movie.imdb_id}" target="_blank" class="btn btn-primary blue darken-3 waves-effect waves-light">View IMDB <i class="fas fa-chevron-circle-right"></i></a>
             
           </div>
